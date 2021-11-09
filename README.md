@@ -1,4 +1,4 @@
-# livro de recitas :man_cook:
+<!-- # livro de receitas 👨‍🍳
 
 
 
