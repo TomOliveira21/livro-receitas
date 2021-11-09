@@ -2,7 +2,8 @@
 
 
 
-###Ingredientes
+### Ingredientes
+
 - 250g de chocolate meio amargo
 - 250g de manteiga
 - 200g de açúcar 
@@ -10,8 +11,8 @@
 - 1/2 colher (café) de sal 
 - 4 ovos
 
-###Modo de preparo
- 
+### Modo de preparo
+
 - 1Misture o açúcar, a farinha e o sal. Reserve. 
 
 - 2Derreta o chocolate com a manteiga em banho-maria. 
