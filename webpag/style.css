@@ -1,4 +1,23 @@
-#title{
-font-style: calligraph
+body {
+    background: rgb(238, 245, 242);
 }
 
+.subtitle {
+    color:brown;
+    font-size: 20px;
+}
+.description{
+    color: rgb(92, 85, 85);
+}
+.topic {
+    color: brown;
+}
+#title {
+font-style: italic;
+font-size: 60px;
+color: brown;
+}
+
+#title {
+    background-color: rgb(238, 245, 242);
+}
